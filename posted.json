@@ -8,5 +8,10 @@
     "when": "2026-06-12T12:33:25.051Z",
     "label": "final-KOR-vs-CZE-537328",
     "make": "Accepted"
+  },
+  "537333:LIVE": {
+    "when": "2026-06-12T19:15:56.741Z",
+    "label": "live-CAN-vs-BIH-537333",
+    "make": "Accepted"
   }
 }
