@@ -1,17 +1,1 @@
-{
-  "537327:FINAL": {
-    "when": "2026-06-12T12:33:21.188Z",
-    "label": "final-MEX-vs-RSA-537327",
-    "make": "Accepted"
-  },
-  "537328:FINAL": {
-    "when": "2026-06-12T12:33:25.051Z",
-    "label": "final-KOR-vs-CZE-537328",
-    "make": "Accepted"
-  },
-  "537333:LIVE": {
-    "when": "2026-06-12T19:21:06.641Z",
-    "label": "live-CAN-vs-BIH-537333",
-    "make": "Accepted"
-  }
-}
+{"537327:FINAL": {"when": "2026-06-12T12:33:21.188Z", "label": "final-MEX-vs-RSA-537327", "make": "Accepted"}, "537328:FINAL": {"when": "2026-06-12T12:33:25.051Z", "label": "final-KOR-vs-CZE-537328", "make": "Accepted"}}
