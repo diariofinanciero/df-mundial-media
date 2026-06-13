@@ -23,5 +23,10 @@
     "when": "2026-06-13T02:01:49.321Z",
     "label": "live-USA-vs-PAR-537345",
     "make": "Accepted"
+  },
+  "537345:FINAL": {
+    "when": "2026-06-13T03:22:54.317Z",
+    "label": "final-USA-vs-PAR-537345",
+    "make": "Accepted"
   }
 }
