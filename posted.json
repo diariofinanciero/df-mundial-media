@@ -38,5 +38,10 @@
     "when": "2026-06-13T22:16:54.956Z",
     "label": "live-BRA-vs-MAR-537339",
     "make": "Accepted"
+  },
+  "537334:FINAL": {
+    "when": "2026-06-13T22:16:59.624Z",
+    "label": "final-QAT-vs-SUI-537334",
+    "make": "Accepted"
   }
 }
