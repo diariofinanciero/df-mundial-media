@@ -18,5 +18,10 @@
     "when": "2026-06-12T21:09:33.336Z",
     "label": "final-CAN-vs-BIH-537333",
     "make": "Accepted"
+  },
+  "537345:LIVE": {
+    "when": "2026-06-13T02:01:49.321Z",
+    "label": "live-USA-vs-PAR-537345",
+    "make": "Accepted"
   }
 }
