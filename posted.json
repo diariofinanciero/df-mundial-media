@@ -68,5 +68,10 @@
     "when": "2026-06-14T22:25:46.165Z",
     "label": "final-GER-vs-CUW-537351",
     "make": "Accepted"
+  },
+  "537357:FINAL": {
+    "when": "2026-06-14T22:25:49.475Z",
+    "label": "final-NED-vs-JPN-537357",
+    "make": "Accepted"
   }
 }
