@@ -43,5 +43,10 @@
     "when": "2026-06-13T22:16:59.624Z",
     "label": "final-QAT-vs-SUI-537334",
     "make": "Accepted"
+  },
+  "537340:LIVE": {
+    "when": "2026-06-14T01:59:00.492Z",
+    "label": "live-HAI-vs-SCO-537340",
+    "make": "Accepted"
   }
 }
