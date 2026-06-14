@@ -53,5 +53,10 @@
     "when": "2026-06-14T01:59:04.337Z",
     "label": "final-BRA-vs-MAR-537339",
     "make": "Accepted"
+  },
+  "537340:FINAL": {
+    "when": "2026-06-14T06:37:08.874Z",
+    "label": "final-HAI-vs-SCO-537340",
+    "make": "Accepted"
   }
 }
