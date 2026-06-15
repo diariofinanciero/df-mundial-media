@@ -78,5 +78,10 @@
     "when": "2026-06-15T02:58:20.322Z",
     "label": "final-CIV-vs-ECU-537352",
     "make": "Accepted"
+  },
+  "537358:FINAL": {
+    "when": "2026-06-15T08:58:24.262Z",
+    "label": "final-SWE-vs-TUN-537358",
+    "make": "Accepted"
   }
 }
