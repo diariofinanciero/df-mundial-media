@@ -103,5 +103,10 @@
     "when": "2026-06-16T07:40:04.179Z",
     "label": "final-IRN-vs-NZL-537364",
     "make": "Accepted"
+  },
+  "537391:FINAL": {
+    "when": "2026-06-16T22:30:19.200Z",
+    "label": "final-FRA-vs-SEN-537391",
+    "make": "Accepted"
   }
 }
