@@ -128,5 +128,10 @@
     "when": "2026-06-17T20:58:08.109Z",
     "label": "final-POR-vs-COD-537403",
     "make": "Accepted"
+  },
+  "537409:FINAL": {
+    "when": "2026-06-17T22:24:58.543Z",
+    "label": "final-ENG-vs-CRO-537409",
+    "make": "Accepted"
   }
 }
