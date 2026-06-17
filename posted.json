@@ -118,5 +118,10 @@
     "when": "2026-06-17T07:37:59.706Z",
     "label": "final-ARG-vs-ALG-537397",
     "make": "Accepted"
+  },
+  "537398:FINAL": {
+    "when": "2026-06-17T07:38:03.427Z",
+    "label": "final-AUT-vs-JOR-537398",
+    "make": "Accepted"
   }
 }
