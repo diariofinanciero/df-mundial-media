@@ -148,5 +148,10 @@
     "when": "2026-06-18T19:53:48.739Z",
     "label": "final-CZE-vs-RSA-537329",
     "make": "Accepted"
+  },
+  "537335:FINAL": {
+    "when": "2026-06-18T21:54:19.612Z",
+    "label": "final-SUI-vs-BIH-537335",
+    "make": "Accepted"
   }
 }
