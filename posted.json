@@ -138,5 +138,10 @@
     "when": "2026-06-18T07:04:17.754Z",
     "label": "final-GHA-vs-PAN-537410",
     "make": "Accepted"
+  },
+  "537404:FINAL": {
+    "when": "2026-06-18T07:04:24.781Z",
+    "label": "final-UZB-vs-COL-537404",
+    "make": "Accepted"
   }
 }
