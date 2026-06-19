@@ -158,5 +158,10 @@
     "when": "2026-06-19T02:12:24.272Z",
     "label": "final-CAN-vs-QAT-537336",
     "make": "Accepted"
+  },
+  "537330:FINAL": {
+    "when": "2026-06-19T07:25:18.271Z",
+    "label": "final-MEX-vs-KOR-537330",
+    "make": "Accepted"
   }
 }
