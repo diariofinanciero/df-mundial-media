@@ -188,5 +188,10 @@
     "when": "2026-06-20T20:59:59.370Z",
     "label": "final-NED-vs-SWE-537359",
     "make": "Accepted"
+  },
+  "537353:FINAL": {
+    "when": "2026-06-20T23:23:35.001Z",
+    "label": "final-GER-vs-CIV-537353",
+    "make": "Accepted"
   }
 }
