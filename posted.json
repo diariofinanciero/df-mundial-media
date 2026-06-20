@@ -178,5 +178,10 @@
     "when": "2026-06-20T06:06:57.273Z",
     "label": "final-BRA-vs-HAI-537341",
     "make": "Accepted"
+  },
+  "537347:FINAL": {
+    "when": "2026-06-20T06:07:42.271Z",
+    "label": "final-TUR-vs-PAR-537347",
+    "make": "Accepted"
   }
 }
