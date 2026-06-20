@@ -168,5 +168,10 @@
     "when": "2026-06-19T21:34:34.371Z",
     "label": "final-USA-vs-AUS-537348",
     "make": "Accepted"
+  },
+  "537342:FINAL": {
+    "when": "2026-06-20T01:51:41.602Z",
+    "label": "final-SCO-vs-MAR-537342",
+    "make": "Accepted"
   }
 }
