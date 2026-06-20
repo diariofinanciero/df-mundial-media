@@ -183,5 +183,10 @@
     "when": "2026-06-20T06:07:42.271Z",
     "label": "final-TUR-vs-PAR-537347",
     "make": "Accepted"
+  },
+  "537359:FINAL": {
+    "when": "2026-06-20T20:59:59.370Z",
+    "label": "final-NED-vs-SWE-537359",
+    "make": "Accepted"
   }
 }
