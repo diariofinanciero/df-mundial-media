@@ -193,5 +193,10 @@
     "when": "2026-06-20T23:23:35.001Z",
     "label": "final-GER-vs-CIV-537353",
     "make": "Accepted"
+  },
+  "537354:FINAL": {
+    "when": "2026-06-21T06:31:37.117Z",
+    "label": "final-ECU-vs-CUW-537354",
+    "make": "Accepted"
   }
 }
