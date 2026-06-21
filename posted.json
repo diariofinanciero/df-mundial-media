@@ -203,5 +203,10 @@
     "when": "2026-06-21T06:32:23.292Z",
     "label": "final-TUN-vs-JPN-537360",
     "make": "Accepted"
+  },
+  "537371:FINAL": {
+    "when": "2026-06-21T20:51:07.758Z",
+    "label": "final-ESP-vs-KSA-537371",
+    "make": "Accepted"
   }
 }
