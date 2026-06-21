@@ -198,5 +198,10 @@
     "when": "2026-06-21T06:31:37.117Z",
     "label": "final-ECU-vs-CUW-537354",
     "make": "Accepted"
+  },
+  "537360:FINAL": {
+    "when": "2026-06-21T06:32:23.292Z",
+    "label": "final-TUN-vs-JPN-537360",
+    "make": "Accepted"
   }
 }
