@@ -208,5 +208,10 @@
     "when": "2026-06-21T20:51:07.758Z",
     "label": "final-ESP-vs-KSA-537371",
     "make": "Accepted"
+  },
+  "537365:FINAL": {
+    "when": "2026-06-21T22:06:21.956Z",
+    "label": "final-BEL-vs-IRN-537365",
+    "make": "Accepted"
   }
 }
