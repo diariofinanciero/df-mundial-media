@@ -218,5 +218,10 @@
     "when": "2026-06-22T02:08:06.688Z",
     "label": "final-URY-vs-CPV-537372",
     "make": "Accepted"
+  },
+  "537366:FINAL": {
+    "when": "2026-06-22T13:16:25.065Z",
+    "label": "final-NZL-vs-EGY-537366",
+    "make": "Accepted"
   }
 }
