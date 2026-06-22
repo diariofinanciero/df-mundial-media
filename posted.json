@@ -213,5 +213,10 @@
     "when": "2026-06-21T22:06:21.956Z",
     "label": "final-BEL-vs-IRN-537365",
     "make": "Accepted"
+  },
+  "537372:FINAL": {
+    "when": "2026-06-22T02:08:06.688Z",
+    "label": "final-URY-vs-CPV-537372",
+    "make": "Accepted"
   }
 }
