@@ -243,5 +243,10 @@
     "when": "2026-06-23T08:55:02.111Z",
     "label": "final-JOR-vs-ALG-537400",
     "make": "Accepted"
+  },
+  "537405:FINAL": {
+    "when": "2026-06-23T22:02:50.000Z",
+    "label": "final-POR-vs-UZB-537405",
+    "make": "Accepted"
   }
 }
