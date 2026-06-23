@@ -228,5 +228,10 @@
     "when": "2026-06-22T20:40:38.753Z",
     "label": "final-ARG-vs-AUT-537399",
     "make": "Accepted"
+  },
+  "537393:FINAL": {
+    "when": "2026-06-23T05:55:58.152Z",
+    "label": "final-FRA-vs-IRQ-537393",
+    "make": "Accepted"
   }
 }
