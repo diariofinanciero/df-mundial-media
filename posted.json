@@ -233,5 +233,10 @@
     "when": "2026-06-23T05:55:58.152Z",
     "label": "final-FRA-vs-IRQ-537393",
     "make": "Accepted"
+  },
+  "537394:FINAL": {
+    "when": "2026-06-23T08:54:17.605Z",
+    "label": "final-NOR-vs-SEN-537394",
+    "make": "Accepted"
   }
 }
