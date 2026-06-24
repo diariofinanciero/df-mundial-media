@@ -268,5 +268,10 @@
     "when": "2026-06-24T22:37:55.580Z",
     "label": "final-SUI-vs-CAN-537337",
     "make": "Accepted"
+  },
+  "537338:FINAL": {
+    "when": "2026-06-24T22:38:40.508Z",
+    "label": "final-BIH-vs-QAT-537338",
+    "make": "Accepted"
   }
 }
