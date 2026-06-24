@@ -263,5 +263,10 @@
     "when": "2026-06-24T08:33:20.379Z",
     "label": "final-COL-vs-COD-537406",
     "make": "Accepted"
+  },
+  "537337:FINAL": {
+    "when": "2026-06-24T22:37:55.580Z",
+    "label": "final-SUI-vs-CAN-537337",
+    "make": "Accepted"
   }
 }
