@@ -253,5 +253,10 @@
     "when": "2026-06-23T23:20:01.122Z",
     "label": "final-ENG-vs-GHA-537411",
     "make": "Accepted"
+  },
+  "537412:FINAL": {
+    "when": "2026-06-24T01:21:42.483Z",
+    "label": "final-PAN-vs-CRO-537412",
+    "make": "Accepted"
   }
 }
