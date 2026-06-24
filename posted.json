@@ -258,5 +258,10 @@
     "when": "2026-06-24T01:21:42.483Z",
     "label": "final-PAN-vs-CRO-537412",
     "make": "Accepted"
+  },
+  "537406:FINAL": {
+    "when": "2026-06-24T08:33:20.379Z",
+    "label": "final-COL-vs-COD-537406",
+    "make": "Accepted"
   }
 }
